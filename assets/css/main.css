@@ -1240,7 +1240,7 @@ button:disabled,
     height: 100%;
   }
   body {
-    background: url("assets/video/video.mp4");
+    background: url("/video/Video.mp4");
     background-size: cover;
     opacity: 0, 9;
   }
