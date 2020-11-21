@@ -1216,6 +1216,7 @@ button:disabled,
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
+  opacity: 0.6;
 }
 
 #myVideo {
@@ -1242,6 +1243,6 @@ button:disabled,
   body {
     background: url("/video/Video.mp4");
     background-size: cover;
-    opacity: 0, 9;
+    opacity: 0.6;
   }
 }
